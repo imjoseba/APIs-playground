@@ -1,6 +1,6 @@
 # API and Chatbot Skills Practice Repository
 
-![Cover Image](API.jpg)
+![Cover Image](API.png)
 
 Welcome to my API and Chatbot Skills Practice Repository! This repository is designed to showcase my progress and skills in working with various APIs and chatbots. It's part of my journey to become a proficient data analyst and chatbot developer.
 
