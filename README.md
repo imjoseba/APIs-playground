@@ -1,32 +1,33 @@
-# API Skills Practice Project
+# API and Chatbot Skills Practice Repository
 
-![Cover Image](rick-morty.jpg)
+![Cover Image](API.jpg)
 
-Welcome to my API skills practice project repository! This project is designed to help me enhance my skills in working with various APIs and data retrieval. It's part of my journey to become a proficient data analyst.
+Welcome to my API and Chatbot Skills Practice Repository! This repository is designed to showcase my progress and skills in working with various APIs and chatbots. It's part of my journey to become a proficient data analyst and chatbot developer.
 
 ## Overview
 
-This repository contains a collection of Jupyter Notebooks that demonstrate how to interact with different APIs, retrieve data, and perform various data analysis tasks. Each notebook is dedicated to a specific API or project, allowing me to explore different data sources and develop my API skills.
+This repository is a collection of Jupyter Notebooks that demonstrate my interactions with different APIs and chatbots. These notebooks illustrate data retrieval, data analysis, and chatbot responses. Each notebook focuses on a specific API or chatbot project, allowing me to explore various data sources and language models.
 
 ## Project Structure
 
 The repository is organized as follows:
 
-- `notebooks/`: This directory contains Jupyter Notebooks for various API projects.
-- `data/`: A folder where I store any retrieved or processed data.
-- `requirements.txt`: A list of Python libraries and dependencies required for the projects.
+- `notebooks/`: This directory contains Jupyter Notebooks for various API and chatbot projects.
+- `data/`: A folder for storing retrieved or processed data.
+- `requirements.txt`: A list of Python libraries and dependencies necessary for the projects.
 
 ## Note
 
-This project is intended for educational purposes and to demonstrate my progress in mastering API-related tasks. The data used here is sourced from publicly available APIs, and the code serves as a learning tool.
+This project serves educational purposes and showcases my progress in mastering API-related tasks and chatbot interactions. The data used here is sourced from publicly available APIs, and the code serves as a learning tool.
 
 ## Contact
 
-If you have any questions, suggestions, or just want to connect and discuss data analysis and APIs, feel free to reach out to me at @jmorenoiriarte@gmail.com.
+If you have any questions, suggestions, or would like to discuss data analysis, chatbots, or APIs, feel free to reach out to me at @jmorenoiriarte@gmail.com.
 
 ## Acknowledgments
 
-I'd like to acknowledge the online resources and tutorials that have contributed to my learning journey. Special thanks to the open-source community for providing valuable APIs and datasets.
+I'd like to acknowledge the online resources, tutorials, and open-source community for contributing to my learning journey. Special thanks to OpenAI for providing valuable language models.
 
-Enjoy exploring the world of APIs with me!
+Join me in exploring the world of APIs and chatbots!
 
+---
