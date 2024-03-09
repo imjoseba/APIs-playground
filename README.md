@@ -1,4 +1,4 @@
-# API and Chatbot Skills Practice Repository
+# API Skills Practice Repository
 
 ![Cover Image](API.png)
 
